@@ -1,6 +1,6 @@
 <div align = center>
 
-![](https://raw.githubusercontent.com/DmitryHudrich/Winter/new-readme-draft/Assets/header.gif)
+![](https://raw.githubusercontent.com/DmitryHudrich/Winter/main/Assets/header.gif)
 
 ![Badge Pull Requests] 
 ![Badge Issues]
